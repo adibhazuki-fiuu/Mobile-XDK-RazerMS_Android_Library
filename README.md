@@ -16,7 +16,7 @@
 Issues
 ------------
 
-Submit issue to this repository or email to our support-sa@razer.com
+Submit issue to this repository or email to our support-sa@fiuu.com
 
 Support
 -------
