@@ -2,6 +2,9 @@
 
 <img src="https://user-images.githubusercontent.com/38641542/74424311-a9d64000-4e8c-11ea-8d80-d811cfe66972.jpg">
 
+UPDATE NOTICE
+-----------------
+Latest Mobile XDK Android Library moved to new URL https://github.com/FiuuPayment/Mobile-XDK-Fiuu_Android_Library
 
 ## Resources
 
